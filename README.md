@@ -6,10 +6,6 @@
 
 ###
 
-<h2 align="left">Statistics</h2>
-
-###
-
 <h2 align="left">Technologies</h2>
 
 ###
