@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Hello, I'm David. Web developer. In addition to developing web I also make components for HTML, CSS, TAILWINDCSS...<br><br>Or even functions to animate things in 3D.<br><br>I am currently going to start the multiplatform developer degree.</p>
+<p align="left">Hello, I'm David. Web developer. In addition to developing web I also make components for HTML, CSS, TAILWINDCSS...<br><br>Or even functions to animate things in 3D.<br><br>I am currently a web and multiplatform developer</p>
 <a href="https://davidmh-7.github.io/DavidMangasPortfolio/">Portfolio</a>
         
 ###
