@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Hello, I'm David. Web developer. In addition to developing web I also make components for HTML, CSS, TAILWINDCSS...<br><br>Or even functions to animate things in 3D.<br><br>I am currently a web and multiplatform developer</p>
+<p align="left">Hello, I'm David Mangas Hernandez. Web and multiplatform developer, founder of Noltek. I create custom software, AI solutions, and have experience building interactive 3D components for web projects.</p>
 <a href="https://davidmh-7.github.io/DavidMangasPortfolio/">Portfolio</a>
         
 ###
